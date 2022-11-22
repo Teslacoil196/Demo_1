@@ -1,0 +1,41 @@
+#I1 {
+  height: 100px;
+  width: 150px;
+  }
+
+  .example-card {
+    max-width: 400px;
+    /* background-color: azure;
+    box-shadow: 5px 10px #c8ebf7; */
+  }
+
+  .example-form {
+      min-width: 150px;
+      max-width: 500px;
+      width: 100%;
+    }
+
+    .center-content{
+      text-align: -webkit-center;
+    }
+
+    .example-full-width {
+      width: 100%;
+    }
+
+    h5{
+      font-family:'Times New Roman', Times, serif;
+      -webkit-text-fill-color: black;
+    }
+
+    .btn{
+      width: 10rem;;
+    }
+    #button{
+        width: 7rem;
+        display: flex;
+        justify-content: center;
+    }
+    /* d-inline-block align-top{
+      position: absolute;
+    } */
